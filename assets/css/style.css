@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 21px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -24,12 +24,13 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: inline;
 }
 
 .header div ul {
@@ -86,17 +87,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit {
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit {
+.benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit {
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
