@@ -10,3 +10,9 @@ The specific tasks that were completed during the refactor include:
 - Adding a descrptive title to the webpage
 - Added alt text attributes to images to improve accessibility.
 - Edited HTML to ensure headings are in sequential order.
+
+
+[Link to Deployed Site](doc:https://sydlaub.github.io/slaub-01-code-refactor/)
+
+[Link to GitHub Repository](doc:https://github.com/sydlaub/slaub-01-code-refactor) 
+
