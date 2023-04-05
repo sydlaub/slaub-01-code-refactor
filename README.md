@@ -11,8 +11,15 @@ The specific tasks that were completed during the refactor include:
 - Added alt text attributes to images to improve accessibility.
 - Edited HTML to ensure headings are in sequential order.
 
+## Links
 
 [Link to Deployed Site](doc:https://sydlaub.github.io/slaub-01-code-refactor/)
 
 [Link to GitHub Repository](doc:https://github.com/sydlaub/slaub-01-code-refactor) 
 
+## Installation
+
+## Usage
+The website can be viewed on a desktop web browser as shown below
+
+![Screenshot of deployed Horiseon homepage](./assets/images/Horiseon%20Homepage%20Screenshot.png)
